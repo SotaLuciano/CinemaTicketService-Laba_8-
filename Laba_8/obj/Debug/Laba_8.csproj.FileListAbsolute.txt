@@ -1,0 +1,6 @@
+D:\Visual Studio\Visual Studio C# Projects\Laba_8\Laba_8\bin\Debug\Laba_8.exe.config
+D:\Visual Studio\Visual Studio C# Projects\Laba_8\Laba_8\bin\Debug\Laba_8.exe
+D:\Visual Studio\Visual Studio C# Projects\Laba_8\Laba_8\bin\Debug\Laba_8.pdb
+D:\Visual Studio\Visual Studio C# Projects\Laba_8\Laba_8\obj\Debug\Laba_8.exe
+D:\Visual Studio\Visual Studio C# Projects\Laba_8\Laba_8\obj\Debug\Laba_8.pdb
+D:\Visual Studio\Visual Studio C# Projects\Laba_8\Laba_8\obj\Debug\Laba_8.csprojResolveAssemblyReference.cache
